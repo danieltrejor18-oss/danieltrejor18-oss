@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hola, soy Daniel 👋
 
-<!--
-**danieltrejor18-oss/danieltrejor18-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Software, y apasionado por la tecnología.
+Mi meta es especializarme en Arquitectura de Software.
 
-Here are some ideas to get you started:
+## Sobre mí
+- 🎓 Estudiando Ingeniería en Software
+- 🌱 Actualmente aprendiendo Python y fundamentos de programación
+- 🎯 Meta: convertirme en Arquitecto de Software
+- 📍 Chihuahua, México
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que estoy aprendiendo
+- Python
+- Git & GitHub
+
+## Proyectos
+- 🔢 [Calculadora Simple](https://github.com/danieltrejor18-oss/calculadora-python) — Calculadora con manejo de errores y funciones
+
+## Contacto
+- 📧 danieltrejor18@gmail.com
+---
+# Hi, I'm Daniel 👋
+
+Software Engineering student passionate about technology.
+My goal is to specialize in Software Architecture.
+
+## About me
+- 🎓 Studying Software Engineering
+- 🌱 Currently learning Python and programming fundamentals
+- 🎯 Goal: become a Software Architect
+- 📍 Chihuahua, México
+
+## Technologies I'm learning
+- Python
+- Git & GitHub
+
+## Projects
+- 🔢 [Simple Calculator](https://github.com/danieltrejor18-oss/calculadora-python) — Calculator with error handling and functions
+
+## Contact
+- 📧 danieltrejor18@gmail.com
