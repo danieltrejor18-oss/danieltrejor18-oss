@@ -15,6 +15,7 @@ Mi meta es especializarme en Arquitectura de Software.
 
 ## Proyectos
 - 🔢 [Calculadora Simple](https://github.com/danieltrejor18-oss/calculadora-python) — Calculadora con manejo de errores y funciones
+- 📒 [Agenda de Contactos](https://github.com/danieltrejor18-oss/agenda-contactos) — Gestión de contactos con listas y diccionarios
 
 ## Contacto
 - 📧 danieltrejor18@gmail.com
