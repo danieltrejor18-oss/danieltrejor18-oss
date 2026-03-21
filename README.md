@@ -37,6 +37,7 @@ My goal is to specialize in Software Architecture.
 
 ## Projects
 - 🔢 [Simple Calculator](https://github.com/danieltrejor18-oss/calculadora-python) — Calculator with error handling and functions
+- 📒 [Agenda de Contactos](https://github.com/danieltrejor18-oss/agenda-contactos) — Gestión de contactos con listas y diccionarios
 
 ## Contact
 - 📧 danieltrejor18@gmail.com
