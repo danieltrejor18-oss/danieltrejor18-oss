@@ -16,6 +16,7 @@ Mi meta es especializarme en Arquitectura de Software.
 ## Proyectos
 - 🔢 [Calculadora Simple](https://github.com/danieltrejor18-oss/calculadora-python) — Calculadora con manejo de errores y funciones
 - 📒 [Agenda de Contactos](https://github.com/danieltrejor18-oss/agenda-contactos) — Gestión de contactos con listas y diccionarios
+- 📖 [Gestor de Biblioteca](https://github.com/danieltrejor18-oss/gestor-bibliotecario) - Gestor de libros, con funciones y clases 
 
 ## Contacto
 - 📧 danieltrejor18@gmail.com
@@ -37,7 +38,8 @@ My goal is to specialize in Software Architecture.
 
 ## Projects
 - 🔢 [Simple Calculator](https://github.com/danieltrejor18-oss/calculadora-python) — Calculator with error handling and functions
-- 📒 [Agenda de Contactos](https://github.com/danieltrejor18-oss/agenda-contactos) — Gestión de contactos con listas y diccionarios
+- 📒 [Contact Management](https://github.com/danieltrejor18-oss/agenda-contactos) — Contact management with lists and dictionaries
+- 📖 [Book Manager](https://github.com/danieltrejor18-oss/gestor-bibliotecario) - Book manager using functions and classes 
 
 ## Contact
 - 📧 danieltrejor18@gmail.com
